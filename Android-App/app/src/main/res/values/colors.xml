@@ -1,0 +1,6 @@
+<resources>
+    <color name="danger_red">#E35D4E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bg_grey">#F5F5F5</color>
+    <color name="text_grey">#757575</color>
+    <color name="glass_white">#40FFFFFF</color> </resources>

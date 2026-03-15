@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913818373512",
+    "project_id": "ailert-a55ca",
+    "storage_bucket": "ailert-a55ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913818373512:android:0ed0a2215dc4bad337be3d",
+        "android_client_info": {
+          "package_name": "com.example.ailert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqlE_6OC4LLpOxgF1BN-IcPzcVFYvHzrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
